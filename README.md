@@ -22,4 +22,4 @@
 
 
 # My Tableau profile link
-> Check out other viz in https://public.tableau.com/app/profile/gourab.pal4067
+> Check out other viz on https://public.tableau.com/app/profile/gourab.pal4067
