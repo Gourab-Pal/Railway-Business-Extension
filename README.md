@@ -19,3 +19,7 @@
 
 > [!CAUTION]
 > While viewing worksheet/stories/dashboards in Tableau, adjust the device layout in the Tableau for better experience.
+
+
+# My Tableau profile link
+> Check out other viz in https://public.tableau.com/app/profile/gourab.pal4067
